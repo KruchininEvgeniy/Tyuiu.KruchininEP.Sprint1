@@ -18,7 +18,7 @@ namespace Tyuiu.KruchininEP.Sprint1.Task0.V7
             Console.WriteLine("**************************************************************************************");
             Console.WriteLine("* Спринт #1                                                                          *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                                   *");
-            Console.WriteLine("* Задание #1                                                                         *");
+            Console.WriteLine("* Задание #0                                                                         *");
             Console.WriteLine("* Вариант #7                                                                         *");
             Console.WriteLine("* Выполнил: Кручинин Евгений Павлович | РППб-25-1                                    *");
             Console.WriteLine("**************************************************************************************");

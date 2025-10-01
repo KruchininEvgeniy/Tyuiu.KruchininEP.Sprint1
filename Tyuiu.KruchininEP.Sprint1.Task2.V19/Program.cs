@@ -18,7 +18,7 @@ namespace Tyuiu.KruchininEP.Sprint1.Task2.V19
             Console.WriteLine("**************************************************************************************");
             Console.WriteLine("* Спринт #1                                                                          *");
             Console.WriteLine("* Тема: Арифметические операторы в C#                                                *");
-            Console.WriteLine("* Задание #1                                                                         *");
+            Console.WriteLine("* Задание #2                                                                         *");
             Console.WriteLine("* Вариант #19                                                                        *");
             Console.WriteLine("* Выполнил: Кручинин Евгений Павлович | РППб-25-1                                    *");
             Console.WriteLine("**************************************************************************************");
