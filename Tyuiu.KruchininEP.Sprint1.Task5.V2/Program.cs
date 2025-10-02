@@ -26,7 +26,7 @@ namespace Tyuiu.KruchininEP.Sprint1.Task5.V2
             Console.WriteLine("Введите значение температуры в градусах Фаренгейта:");
             double temp = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("\n***************************************************************************");
+            Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine(ds.FahrenheitToСelsius(temp));
